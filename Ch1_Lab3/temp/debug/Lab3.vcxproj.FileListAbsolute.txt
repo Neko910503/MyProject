@@ -1,0 +1,2 @@
+C:\c_code\Ch1_Lab3\temp\debug\Lab3.exe
+C:\c_code\Ch1_Lab3\temp\debug\Lab3.pdb
